@@ -2,7 +2,7 @@
 
 ### Description:
 
-A userscript or greasemonkey script that picks a random movie from the [Plex](https://plex.tv) library on `localhost` and displays additional information. Make sure to replace token for your own. You can find it using:
+A userscript or greasemonkey script that picks a random movie from the [Plex](https://plex.tv) library on `localhost` and displays additional information. Make sure to replace token for your own. You can find it using:<br>
 Developer Tools -> Network -> look into the entries until you find it.
 
 This is a userscript for your browser. It's primarily designed for Firefox and Chrome with
